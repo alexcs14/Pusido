@@ -3,16 +3,16 @@
 
   <ul class="collapsible" data-collapsible="accordion">
      <li>
-       <div class="collapsible-header"><i class="material-icons">filter_drama</i>Conozco tu secreto 7u7</div>
-       <div class="collapsible-body"><span>Bueno no :(</span></div>
+       <div class="collapsible-header"><i class="material-icons">filter_drama</i>First</div>
+       <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
      </li>
      <li>
-       <div class="collapsible-header"><i class="material-icons">place</i>Acá abajo tengo algo que te gustara 7u7</div>
-       <div class="collapsible-body"><span>We superalo, ella no te quiere</span></div>
+       <div class="collapsible-header"><i class="material-icons">place</i>Second</div>
+       <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
      </li>
      <li>
-       <div class="collapsible-header"><i class="material-icons">whatshot</i>Vamos, abrelo 7u7</div>
-       <div class="collapsible-body"><span>Hola we e.e</span></div>
+       <div class="collapsible-header"><i class="material-icons">whatshot</i>Third</div>
+       <div class="collapsible-body"><span>Lorem ipsum dolor sit amet.</span></div>
      </li>
    </ul>
 
