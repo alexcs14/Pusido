@@ -13,5 +13,11 @@
       require_once "views/soyunapantalla.php";
       require_once "include/footer.php";
     }
+
+    public function vengo(){
+      require_once "include/header.php";
+      require_once "views/solovengo.php";
+      require_once "include/footer.php";
+    }
   }
 ?>
