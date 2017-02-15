@@ -1,0 +1,14 @@
+<div class="container">
+<img src="../assets/images/restaurant.jpg">
+<h1 class="tqs"> Quienes somos </h1>
+  <div class="row">
+  <div class="col s3" > <img class="circle responsive-img" src="../assets/images/otra.jpg">Ana Gònzales</div>
+  <div class="col s3"><img class="circle responsive-img" src="../assets/images/otra.jpg">Angie Cortes</div>
+  <div class="col s3"><img class="circle responsive-img" src="../assets/images/otra.jpg">Sara Muñoz</div>
+  <div class="col s3"><img class="circle responsive-img" src="../assets/images/otra.jpg">Yeny Lòpez</div>
+</div>
+  <div class="row">
+  <div class="col s3"><img class="circle responsive-img" src="../assets/images/otra.jpg">Diana Tamayo</div>
+  <div class="col s3"><img class="circle responsive-img" src="../assets/images/otra.jpg">Esteban Vàsquez</div>
+</div>
+</div>
